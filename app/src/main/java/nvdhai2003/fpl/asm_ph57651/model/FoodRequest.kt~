@@ -1,0 +1,8 @@
+package nvdhai2003.fpl.asm_ph57651.model
+
+import com.google.gson.annotations.SerializedName
+
+data class FoodRequest(
+    @SerializedName("id") var foodId: Int ?= null,
+    val 
+)
